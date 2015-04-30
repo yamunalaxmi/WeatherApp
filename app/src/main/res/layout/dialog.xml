@@ -8,7 +8,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/dialog.city.header"
-        style="@style/Theme.AppCompat.Dialog"/>
+        style="@style/Theme.AppCompat.Dialog"
+        android:id="@+id/df" />
 
     <TextView
         android:layout_width="match_parent"
